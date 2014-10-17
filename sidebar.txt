@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sol:home|Door43 (sol)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sol|d43-sol repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sol/archive/master.zip|d43-sol.zip]]
+
+**Recent Changes**
+{{changes>ns = sol}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sol|Ethnologue data]]
+
